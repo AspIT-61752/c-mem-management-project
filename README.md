@@ -13,6 +13,7 @@ CLONE: `gh repo clone repo-name-goes-here ./ -u main`
 [Codecademy - Memory Management](https://www.codecademy.com/resources/docs/c/memory-management)
 
 **Videos**
+
 [Programiz - Dynamic Memory Allocation in C](https://www.youtube.com/watch?v=Dn87Bna23TQ)
 
 [Tutorialspoint - **C - Memory Management**](https://www.youtube.com/watch?v=734IQSAkww4)
