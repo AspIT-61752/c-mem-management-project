@@ -7,10 +7,14 @@ CLONE: `gh repo clone repo-name-goes-here ./ -u main`
 # Tutorials:
 
 [Tutorialspoint - **C - Memory Management**](https://www.tutorialspoint.com/cprogramming/c_memory_management.htm)
+
 [University of Illinois Urbana-Champaign - Basic Memory Management in C](https://systems-encyclopedia.cs.illinois.edu/articles/c-memory-management/)
+
 [Codecademy - Memory Management](https://www.codecademy.com/resources/docs/c/memory-management)
 
 **Videos**
 [Programiz - Dynamic Memory Allocation in C](https://www.youtube.com/watch?v=Dn87Bna23TQ)
+
 [Tutorialspoint - **C - Memory Management**](https://www.youtube.com/watch?v=734IQSAkww4)
+
 [Simplilearn - Dynamic Memory Allocation In C | C Memory Management Explained](https://www.youtube.com/watch?v=Xzm-8-Mdm2Q)
